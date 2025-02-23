@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#Files used
+r'C:/Users/dangb/Downloads/enhanced_box_office_data(2000-2024)u.csv'
+r'C:/Users/dangb/Downloads/archive/Marvel Movies.csv'
